@@ -1,0 +1,87 @@
+HTML, CSS & JavaScript - REACT: Front -end Development
+
+Programming with JavaScript!
+	
+	Transition from Python!
+	
+	Mainly for Web Development - when it was developed...
+
+	1. Desktop publishing languages - Calculator...(nothing to do with internet) - 	C, 	C++, C# , Java, Python
+	2. Website development languages...Web browser... (not useful without internet) - 	HTML, CSS, JavaScript, ASP, PHP , JSP
+
+Now, JavaScript is not only used for Website development BUT also we can develop desktop applications in JavaScript...
+JavaScript was mainly for CLIENT SIDE Web development when it was born...BUT now JS is evenly powerful for doing SERVER SIDE Web development
+
+SUMMARY: JavaScript can be used to develop: 1. Client Side website, 2. Server Side Websites, and 3. Desktop applications - Understand the Power of JS.
+
+Definition of JS:
+JS is a lightweight, interpreted or JIT(Just-in-time) compiled language meant to be embedded in host environments, for example, web browers.
+
+
+----------- 
+------xx---
+--xx-------
+PROGRAMMING LANGUAGE DOES NOT EXECUTE IT BECAUSE THERE ARE SOME ERRORS- YOU NEED TO REMOVE THE ERRORS THEN IT WILL RUN..COMPILER BASED LANGUAGES..
+
+----------- OUTPUT 
+------xx--- NO- OUTPUT
+--xx------- NO -OUTPUT
+----------- OUTPUT
+
+INTERPRETED LANGUAGES-- JS IS ONE OF THEM....HTML, CSS ...
+
+HOW TO RUN JS PROGRAM?
+	1. By using Node js as console application - desktop...
+	2. By using REPL (Read Evaluate Process Loop) of nodejs or browser(REPL)
+	3. By using the web browser... (FRONT-END)... 
+
+One of the most popular progamming languages in the world.
+
+JavaScript has many versions....its an evolving language...
+
+ECMAScript (European Computer Manufacturers Association) which is the standads body repsonsible for JS language..
+ES5, ES6, ES2015, ES2017... (advanced javascript)..
+
+JS can also be termed as ES5-6...
+
+JavaScript Syntax:
+
+Features:
+1. JS is Case-sensitive: name Name BOTH ARE DIFFERENT...
+	customername, CustomerName ... DIFFERENT..
+2. Naming is mostly used as "camelCase"..
+	customerName, dateOfBirth,dateOfJoining...
+
+Camel Case: customerName, dateOfBirth 	
+Pascal Case: CustomerName, DateOfBirth
+Snake Case: customer_name, date_of_birth
+Kebab Case: customer-name, date-of-birth
+
+3. Semi colons at the end of the statement are OPTIONAL..they mark the ending of an statment (statement terminators) ...A very good habbit is to ALWAYS use them...why? because MOST of the prog languages use them....
+
+4. Comments in JS:
+
+
+JANUARY 05, 2023:
+
+HOW MANY OF YOU DON'T HAVE VSC?
+
+Comments in JS:
+//Single line comments...
+
+/* these are multilein
+comments that can go
+to many lines */
+
+// single line
+
+/*   multiline... */
+
+
+
+
+
+
+
+
+
