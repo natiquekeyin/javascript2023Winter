@@ -1,15 +1,3 @@
-/**
- * Programming With JavaScript - QAP2
- *
- *
- * Please update the following with your information:
- *
- *      Name: <YOUR_NAME>
- *      Date: <SUBMISSION_DATE>
- */
-
-
-
 /*******************************************************************************
  * Problem 1: replace all internal whitespace in a string value with underscore
  * ('_'), and makes it lowercase.
@@ -29,7 +17,7 @@
  * snake('A.BC') --> returns 'a_bc'
  * snake(' A..  B   C ') --> returns 'a_b_c'
  *
-  ******************************************************************************/
+ ******************************************************************************/
 
 function snake(value) {
   // Replace this comment with your code...
@@ -431,18 +419,16 @@ function none() {
  *
  * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent
  *
- * The following might be the parameters 
- * 
+ * The following might be the parameters
+ *
  *  "query" the query to use. Must be properly URI encoded
  * "order" the sort order to use, must be one of `ascending` or `descending`
  * "count" the number of results per page, must be 1-50
  * "license" the license to use, must be one of none, any, cc-by, cc-by-nc, cc-by-sa, cc-by-nd, cc-by-nc-sa, cc-by-nc-nd
- * 
+ *
  ******************************************************************************/
 
 function buildUrl(query, order, count, license) {
   // Replace this comment with your code...
   //returns the properly formatted iNaturlist URL
 }
-
-
